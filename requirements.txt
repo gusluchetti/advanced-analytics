@@ -54,12 +54,14 @@ numpy==1.19.5
 oauthlib==3.1.0
 opt-einsum==3.3.0
 parso==0.5.2
+pbr==5.6.0
 pexpect==4.6.0
 pickleshare==0.7.5
 prompt-toolkit==2.0.10
 protobuf==3.18.0
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
+pycairo==1.20.1
 Pygments==2.3.1
 PyGObject==3.36.0
 PyHamcrest==1.9.0
@@ -89,6 +91,7 @@ tensorboard-plugin-wit==1.8.0
 tensorflow==2.6.0
 tensorflow-estimator==2.6.0
 termcolor==1.1.0
+testresources==2.0.1
 traitlets==4.3.3
 Twisted==18.9.0
 typing-extensions==3.7.4.3
